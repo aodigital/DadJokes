@@ -1,0 +1,24 @@
+
+#dadjokeg_joke-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#dadjokeg_setup, #dadjokeg_punchline {
+    font-size: 18px;
+}
+
+#dadjokeg_new-joke-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#dadjokeg_new-joke-btn:hover {
+    background-color: #45a049;
+}
